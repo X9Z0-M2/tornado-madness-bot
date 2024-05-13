@@ -1,0 +1,9 @@
+.venv
+.venv/**
+.ipynb_checkpoints
+.ipynb_checkpoints/**
+runs
+runs/**
+tornado_madness*/
+tornado_madness*/**
+yolov*.pt
